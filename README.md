@@ -1,6 +1,6 @@
 # awscdk-app-back-to-back-avails
 
-AWS CDK app for deploying necessary resources to test MediaTailor's back-to-back avails behavior
+AWS CDK app for deploying necessary resources to test MediaTailor's back-to-back avails behavior for Live SSAI
 
 ## Install
 1. Install [Node](https://nodejs.org)
